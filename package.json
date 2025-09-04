@@ -1,0 +1,22 @@
+{
+  "name": "AppCap",
+  "version": "1.0.0",
+  "description": "Cloud Application Programming Model",
+  "repository": "https://github.com/Yisusblanco/AppCap.git",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^9.3.1",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@cap-js/cds-types": "^0.13.0",
+    "@cap-js/sqlite": "^2.0.2"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
