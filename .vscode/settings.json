@@ -1,2 +1,10 @@
 {
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Products",
+            "database": "${workspaceFolder:AppCap}/products.sqlite"
+        }
+    ]
 }
