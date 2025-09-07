@@ -1,1 +1,8 @@
 using {  } from './annotations-products';
+using {  } from './annotations-status';
+using {  } from './annotations-supplier';
+using {  } from './annotations-categories';
+using {  } from './annotations-subCategories';
+using {  } from './annotations-contact';
+using {  } from './annotations-productdetails';
+using {  } from './annotations-reviews';

@@ -1,1 +1,4 @@
-code,name,descr
+code,name,descr,criticality
+InStock,In Stock, In Stock,3
+OutOfStock,Out of Stock,Out of Stock,1
+LowAvailability,Low Availabilit,Low Availabilit,2

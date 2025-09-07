@@ -83,7 +83,8 @@ entity Status : CodeList {
             InStock         = 'In Stock';
             OutOfStock      = 'Out of Stock';
             LowAvailability = 'Low Availabilit';
-        }
+        };
+        criticality: Integer;
 };
 
 /** Value Helps */
