@@ -1,16 +1,16 @@
-ID,rating,date,reviewText,product_ID
-8d4e2fb2-74cd-4ca4-8bc2-a89c9621bfd6,4.33,2025-01-10,Comentario 1 sobre Smartphone Nova X.,2005c342-83ea-4934-ba9e-326583fdf9f3
-eca6caff-dac9-4703-9d40-23de20a9a742,4.35,2025-02-11,Comentario 2 sobre Smartphone Nova X.,2005c342-83ea-4934-ba9e-326583fdf9f3
-f93dafa3-cb6f-49b0-88e2-e45e8b6c7974,4.74,2025-01-10,Comentario 1 sobre Laptop Pro 14.,82b9529c-2bf9-4d66-93b4-b0ddced1c7dc
-063115be-330e-4813-a74c-1b82db87f10f,4.62,2025-02-11,Comentario 2 sobre Laptop Pro 14.,82b9529c-2bf9-4d66-93b4-b0ddced1c7dc
-b03d76d3-9eb2-4a2e-961c-794dcca894d1,4.1,2025-01-10,Comentario 1 sobre Auriculares OverEar.,e90fcb85-7050-4007-8211-0211bb2bc575
-68e2c3d4-0476-4bff-b893-0e05c6c4132c,4.29,2025-01-10,Comentario 1 sobre Batidora ChefMix.,fd8073ed-686a-4811-a429-a883e2f2a92f
-3d5a7e2d-80f8-43d5-93d8-c94031c6a235,4.24,2025-01-10,Comentario 1 sobre Aspiradora Cyclone.,1ca13e4b-d0e6-409b-8972-3195a0e00768
-deae42d6-8edd-4aa2-af3f-812a2baa3978,4.35,2025-01-10,Comentario 1 sobre Lámpara Minimal LED.,809cba3d-3f6e-44af-852a-a73ce84c9588
-7130ecb9-ac6d-426f-8271-2ed50e3e96c6,3.81,2025-01-10,Comentario 1 sobre Banda Fitness Pro.,ed4f7901-3a05-4b71-a9bd-feed83950232
-0003da0f-50e5-470a-9c57-9011523fbd4b,4.86,2025-01-10,Comentario 1 sobre Bicicleta Urbana 700.,71403b05-a040-4809-88b2-e124ef4599ca
-713557f5-9a6a-41aa-8c79-5f4b676cf9f7,4.77,2025-02-11,Comentario 2 sobre Bicicleta Urbana 700.,71403b05-a040-4809-88b2-e124ef4599ca
-62b77f51-c4a1-4ade-8d9f-3a6e1705f1f8,4.51,2025-01-10,Comentario 1 sobre Balón Fútbol Pro.,12cc9392-e848-4578-8b29-8dd6e91a7e38
-71698d98-290f-4de6-8647-cc4519e21ccb,4.39,2025-01-10,Comentario 1 sobre Polera Casual Eco.,1a5f380f-e617-45d9-9b78-fb24f6715603
-788ed357-d574-4d05-ab4e-0c039391a5dd,4.18,2025-01-10,Comentario 1 sobre Zapatilla Running.,d3260164-f540-48df-b113-dab88dd45037
-fe3c2663-44f2-4ea2-9d59-d23ebb44965c,4.29,2025-01-10,Comentario 1 sobre Camisa Formal Slim.,76553524-354f-4cc9-980b-d0f26f29c187
+ID,rating,date,user,reviewText,product_ID
+8d4e2fb2-74cd-4ca4-8bc2-a89c9621bfd6,4.33,2025-01-10,JohnDoe,Comentario 1 sobre Smartphone Nova X.,2005c342-83ea-4934-ba9e-326583fdf9f3
+eca6caff-dac9-4703-9d40-23de20a9a742,4.35,2025-02-11,DanaDoe,Comentario 2 sobre Smartphone Nova X.,2005c342-83ea-4934-ba9e-326583fdf9f3
+f93dafa3-cb6f-49b0-88e2-e45e8b6c7974,4.74,2025-01-10,Mike123,Comentario 1 sobre Laptop Pro 14.,82b9529c-2bf9-4d66-93b4-b0ddced1c7dc
+063115be-330e-4813-a74c-1b82db87f10f,4.62,2025-02-11,Witan23,Comentario 2 sobre Laptop Pro 14.,82b9529c-2bf9-4d66-93b4-b0ddced1c7dc
+b03d76d3-9eb2-4a2e-961c-794dcca894d1,4.1,2025-01-10,Alex14,Comentario 1 sobre Auriculares OverEar.,e90fcb85-7050-4007-8211-0211bb2bc575
+68e2c3d4-0476-4bff-b893-0e05c6c4132c,4.29,2025-01-10,emma5,Comentario 1 sobre Batidora ChefMix.,fd8073ed-686a-4811-a429-a883e2f2a92f
+3d5a7e2d-80f8-43d5-93d8-c94031c6a235,4.24,2025-01-10,Luky25,Comentario 1 sobre Aspiradora Cyclone.,1ca13e4b-d0e6-409b-8972-3195a0e00768
+deae42d6-8edd-4aa2-af3f-812a2baa3978,4.35,2025-01-10,Mathew,Comentario 1 sobre Lámpara Minimal LED.,809cba3d-3f6e-44af-852a-a73ce84c9588
+7130ecb9-ac6d-426f-8271-2ed50e3e96c6,3.81,2025-01-10,oliver,Comentario 1 sobre Banda Fitness Pro.,ed4f7901-3a05-4b71-a9bd-feed83950232
+0003da0f-50e5-470a-9c57-9011523fbd4b,4.86,2025-01-10,amelia,Comentario 1 sobre Bicicleta Urbana 700.,71403b05-a040-4809-88b2-e124ef4599ca
+713557f5-9a6a-41aa-8c79-5f4b676cf9f7,4.77,2025-02-11,moni14,Comentario 2 sobre Bicicleta Urbana 700.,71403b05-a040-4809-88b2-e124ef4599ca
+62b77f51-c4a1-4ade-8d9f-3a6e1705f1f8,4.51,2025-01-10,Isa1995,Comentario 1 sobre Balón Fútbol Pro.,12cc9392-e848-4578-8b29-8dd6e91a7e38
+71698d98-290f-4de6-8647-cc4519e21ccb,4.39,2025-01-10,sara878,Comentario 1 sobre Polera Casual Eco.,1a5f380f-e617-45d9-9b78-fb24f6715603
+788ed357-d574-4d05-ab4e-0c039391a5dd,4.18,2025-01-10,albert88,Comentario 1 sobre Zapatilla Running.,d3260164-f540-48df-b113-dab88dd45037
+fe3c2663-44f2-4ea2-9d59-d23ebb44965c,4.29,2025-01-10,Juan23,Comentario 1 sobre Camisa Formal Slim.,76553524-354f-4cc9-980b-d0f26f29c187

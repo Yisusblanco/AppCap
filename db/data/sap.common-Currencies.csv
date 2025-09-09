@@ -1,0 +1,157 @@
+code,symbol,minorUnit,name,descr
+AED,AED,2,Dirham de EAU,Moneda de Emiratos Árabes Unidos
+AFN,AFN,2,Afgani,Moneda de Afganistán
+ALL,ALL,2,Lek,Moneda de Albania
+AMD,֏,2,Dram armenio,Moneda de Armenia
+ANG,ƒ,2,Florín de Antillas Neerlandesas,Moneda de Curaçao y Sint Maarten
+AOA,AOA,2,Kwanza,Moneda de Angola
+ARS,$,2,Peso argentino,Moneda de Argentina
+AUD,A$,2,Dólar australiano,Moneda de Australia y territorios
+AWG,ƒ,2,Florín arubeño,Moneda de Aruba
+AZN,AZN,2,Manat azerbaiyano,Moneda de Azerbaiyán
+BAM,BAM,2,Marco convertible,Moneda de Bosnia y Herzegovina
+BBD,$,2,Dólar barbadense,Moneda de Barbados
+BDT,BDT,2,Taka,Moneda de Bangladés
+BGN,BGN,2,Lev búlgaro,Moneda de Bulgaria
+BHD,BHD,3,Dinar bahreiní,Moneda de Baréin
+BIF,BIF,0,Franco de Burundi,Moneda de Burundi
+BMD,$,2,Dólar bermudeño,Moneda de Bermudas
+BND,$,2,Dólar de Brunéi,Moneda de Brunéi
+BOB,BOB,2,Boliviano,Moneda de Bolivia
+BRL,R$,2,Real brasileño,Moneda de Brasil
+BSD,$,2,Dólar bahameño,Moneda de Bahamas
+BTN,BTN,2,Ngultrum,Moneda de Bután
+BWP,BWP,2,Pula,Moneda de Botsuana
+BYN,BYN,2,Rublo bielorruso,Moneda de Bielorrusia
+BZD,BZ$,2,Dólar beliceño,Moneda de Belice
+CAD,C$,2,Dólar canadiense,Moneda de Canadá
+CDF,CDF,2,Franco congoleño,Moneda de R. D. del Congo
+CHF,CHF,2,Franco suizo,Moneda de Suiza y Liechtenstein
+CLP,CLP,0,Peso chileno,Moneda de Chile
+CNY,¥,2,Renminbi (Yuan),Moneda de China
+COP,COP,2,Peso colombiano,Moneda de Colombia
+CRC,₡,2,Colón costarricense,Moneda de Costa Rica
+CUP,CUP,2,Peso cubano,Moneda de Cuba
+CVE,CVE,2,Escudo caboverdiano,Moneda de Cabo Verde
+CZK,Kč,2,Corona checa,Moneda de Chequia
+DJF,DJF,0,Franco yibutiano,Moneda de Yibuti
+DKK,kr,2,Corona danesa,Moneda de Dinamarca (FO, GL)
+DOP,RD$,2,Peso dominicano,Moneda de Rep. Dominicana
+DZD,DZD,2,Dinar argelino,Moneda de Argelia
+EGP,EGP,2,Libra egipcia,Moneda de Egipto
+ERN,ERN,2,Nakfa,Moneda de Eritrea
+ETB,ETB,2,Birr etíope,Moneda de Etiopía
+EUR,€,2,Euro,Moneda de la zona euro
+FJD,FJD,2,Dólar fiyiano,Moneda de Fiyi
+FKP,£,2,Libra malvinense,Moneda de Islas Malvinas
+GBP,£,2,Libra esterlina,Moneda del Reino Unido
+GEL,₾,2,Lari,Moneda de Georgia
+GGP,£,2,Libra de Guernsey,Moneda de Guernsey (par con GBP)
+GHS,₵,2,Cedi ghanés,Moneda de Ghana
+GIP,£,2,Libra de Gibraltar,Moneda de Gibraltar
+GMD,GMD,2,Dalasi,Moneda de Gambia
+GNF,GNF,0,Franco guineano,Moneda de Guinea
+GTQ,Q,2,Quetzal,Moneda de Guatemala
+GYD,GYD,2,Dólar guyanés,Moneda de Guyana
+HKD,HK$,2,Dólar de Hong Kong,Moneda de Hong Kong
+HNL,HNL,2,Lempira,Moneda de Honduras
+HUF,Ft,2,Forinto,Moneda de Hungría
+IDR,IDR,2,Rupia indonesia,Moneda de Indonesia
+ILS,₪,2,Nuevo séquel,Moneda de Israel
+IMP,£,2,Libra de Isla de Man,Moneda de Isla de Man (par con GBP)
+INR,₹,2,Rupia india,Moneda de India
+IQD,IQD,3,Dinar iraquí,Moneda de Irak
+IRR,IRR,2,Rial iraní,Moneda de Irán
+ISK,kr,0,Corona islandesa,Moneda de Islandia
+JEP,£,2,Libra de Jersey,Moneda de Jersey (par con GBP)
+JMD,J$,2,Dólar jamaiquino,Moneda de Jamaica
+JOD,JOD,3,Dinar jordano,Moneda de Jordania
+JPY,¥,0,Yen,Moneda de Japón
+KES,KES,2,Chelín keniano,Moneda de Kenia
+KGS,KGS,2,Som kirguís,Moneda de Kirguistán
+KHR,KHR,2,Riel camboyano,Moneda de Camboya
+KMF,KMF,0,Franco comorense,Moneda de Comoras
+KPW,₩,2,Won norcoreano,Moneda de Corea del Norte
+KRW,₩,0,Won surcoreano,Moneda de Corea del Sur
+KWD,KWD,3,Dinar kuwaití,Moneda de Kuwait
+KYD,CI$,2,Dólar de Islas Caimán,Moneda de Islas Caimán
+KZT,₸,2,Tenge,Moneda de Kazajistán
+LAK,₭,2,Kip,Moneda de Laos
+LBP,LBP,2,Libra libanesa,Moneda de Líbano
+LKR,₨,2,Rupia esrilanquesa,Moneda de Sri Lanka
+LRD,LRD,2,Dólar liberiano,Moneda de Liberia
+LSL,LSL,2,Loti,Moneda de Lesoto
+LYD,LYD,3,Dinar libio,Moneda de Libia
+MAD,MAD,2,Dirham marroquí,Moneda de Marruecos (y Sahara Occidental)
+MDL,MDL,2,Leu moldavo,Moneda de Moldavia
+MGA,MGA,2,Ariary malgache,Moneda de Madagascar
+MKD,MKD,2,Dinar macedonio,Moneda de Macedonia del Norte
+MMK,MMK,2,Kyat,Moneda de Myanmar
+MNT,₮,2,Tugrik,Moneda de Mongolia
+MOP,MOP$,2,Pataca,Moneda de Macao
+MRU,MRU,2,Ouguiya mauritana,Moneda de Mauritania
+MUR,₨,2,Rupia mauriciana,Moneda de Mauricio
+MVR,MVR,2,Rufiyaa,Moneda de Maldivas
+MWK,MWK,2,Kwacha malauí,Moneda de Malaui
+MXN,Mex$,2,Peso mexicano,Moneda de México
+MYR,MYR,2,Ringgit,Moneda de Malasia
+MZN,MZN,2,Metical,Moneda de Mozambique
+NAD,N$,2,Dólar namibio,Moneda de Namibia
+NGN,₦,2,Naira,Moneda de Nigeria
+NIO,C$,2,Córdoba,Moneda de Nicaragua
+NOK,kr,2,Corona noruega,Moneda de Noruega
+NPR,₨,2,Rupia nepalí,Moneda de Nepal
+NZD,NZ$,2,Dólar neozelandés,Moneda de Nueva Zelanda
+OMR,OMR,3,Rial omaní,Moneda de Omán
+PAB,B/.,2,Balboa,Moneda de Panamá
+PEN,S/.,2,Sol peruano,Moneda de Perú
+PGK,PGK,2,Kina,Moneda de Papúa Nueva Guinea
+PHP,₱,2,Peso filipino,Moneda de Filipinas
+PKR,₨,2,Rupia pakistaní,Moneda de Pakistán
+PLN,zł,2,Zloty,Moneda de Polonia
+PYG,₲,0,Guaraní,Moneda de Paraguay
+QAR,QAR,2,Riyal catarí,Moneda de Catar
+RON,RON,2,Leu rumano,Moneda de Rumanía
+RSD,RSD,2,Dinar serbio,Moneda de Serbia
+RUB,₽,2,Rublo ruso,Moneda de Rusia
+RWF,RWF,0,Franco ruandés,Moneda de Ruanda
+SAR,SAR,2,Riyal saudí,Moneda de Arabia Saudita
+SBD,SBD,2,Dólar salomonense,Moneda de Islas Salomón
+SCR,₨,2,Rupia de Seychelles,Moneda de Seychelles
+SDG,SDG,2,Libra sudanesa,Moneda de Sudán
+SEK,kr,2,Corona sueca,Moneda de Suecia
+SGD,S$,2,Dólar singapurense,Moneda de Singapur
+SHP,£,2,Libra de Santa Elena,Moneda de Santa Elena/Ascensión/Tristán
+SLE,SLE,2,Leone (nuevo),Moneda de Sierra Leona (redenominada)
+SLL,SLL,2,Leone (antiguo),Uso transicional en Sierra Leona
+SOS,SOS,2,Chelín somalí,Moneda de Somalia
+SRD,SRD,2,Dólar surinamés,Moneda de Surinam
+STN,STN,2,Dobra,Moneda de Santo Tomé y Príncipe
+SYP,SYP,2,Libra siria,Moneda de Siria
+SZL,SZL,2,Lilangeni,Moneda de Esuatini
+THB,฿,2,Baht,Moneda de Tailandia
+TJS,TJS,2,Somoni,Moneda de Tayikistán
+TMT,TMT,2,Manat turcomano,Moneda de Turkmenistán
+TND,TND,3,Dinar tunecino,Moneda de Túnez
+TOP,T$,2,Paʻanga,Moneda de Tonga
+TRY,₺,2,Lira turca,Moneda de Türkiye (Turquía)
+TTD,TT$,2,Dólar de Trinidad y Tobago,Moneda de Trinidad y Tobago
+TWD,NT$,2,Nuevo dólar taiwanés,Moneda de Taiwán
+TZS,TZS,2,Chelín tanzano,Moneda de Tanzania
+UAH,₴,2,Grivna,Moneda de Ucrania
+UGX,UGX,0,Chelín ugandés,Moneda de Uganda
+USD,$,2,Dólar estadounidense,Moneda de Estados Unidos y territorios
+UYU,$U,2,Peso uruguayo,Moneda de Uruguay
+UZS,UZS,2,Som uzbeko,Moneda de Uzbekistán
+VES,Bs.,2,Bolívar,Moneda de Venezuela
+VND,₫,0,Dong,Moneda de Vietnam
+VUV,Vt,0,Vatu,Moneda de Vanuatu
+WST,WST,2,Tala,Moneda de Samoa
+XAF,FCFA,0,Franco CFA BEAC,Moneda de África Central (CEMAC)
+XCD,EC$,2,Dólar del Caribe Oriental,Moneda de OECS
+XOF,FCFA,0,Franco CFA BCEAO,Moneda de África Occidental (UEMOA)
+XPF,CFPF,0,Franco CFP,Moneda de la Polinesia Francesa
+YER,YER,2,Rial yemení,Moneda de Yemen
+ZAR,R,2,Rand,Moneda de Sudáfrica
+ZMW,ZMW,2,Kwacha zambiano,Moneda de Zambia
+ZWL,ZWL,2,Dólar zimbabuense,Moneda de Zimbabue

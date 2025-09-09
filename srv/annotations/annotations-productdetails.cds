@@ -6,8 +6,8 @@ annotate service.ProductDetails with {
     height @title : 'Alto' @Measures.Unit: unitVolume;
     depth @title : 'Profundidad' @Measures.Unit: unitVolume;
     weight @title : 'Peso' @Measures.Unit: unitWeight;
-    unitVolume @Common.IsUnit;
-    unitWeight @Common.IsUnit;
+    unitVolume @Common.IsUnit @Common.FieldControl: #ReadOnly;
+    unitWeight @Common.IsUnit @Common.FieldControl: #ReadOnly;
 };
 
 annotate service.ProductDetails with @(

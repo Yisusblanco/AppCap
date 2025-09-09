@@ -6,3 +6,5 @@ using {  } from './annotations-subCategories';
 using {  } from './annotations-contact';
 using {  } from './annotations-productdetails';
 using {  } from './annotations-reviews';
+using {  } from './annotations-department';
+using {  } from './annotations-options';
