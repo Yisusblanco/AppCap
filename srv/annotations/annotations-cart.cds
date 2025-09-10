@@ -11,7 +11,10 @@ annotate service.Cart with @UI.LineItem: [
   { $Type: UI.DataFieldForAction, Action: 'taller.Remove',   Label: '', IconUrl: 'sap-icon://delete', Inline: true }
 ];
 
-/* Filtros por defecto en la LR del carrito */
-annotate service.Cart.
-annotate service.Cart.status @Common.FilterDefaultValue: 'OPEN';
+    /* Filtros por defecto en la LR del carrito */
+//annotate service.Cart.status @Common.FilterDefaultValue: 'OPEN';
 annotate service.Cart with @UI.SelectionFields: [ user, status ];
+annotate service.Cart with {
+  unitPrice @Semantics.amount.currencyCode : currency_code;
+  subtotal  @Semantics.amount.currencyCode : currency_code;
+};

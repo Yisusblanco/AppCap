@@ -138,5 +138,5 @@ view CartItemView as select from CartItem {
   product.price       as unitPrice,
   product.currency    as currency,
 
-  quantity * product.price as subtotal
+  (quantity * product.price) as subtotal : Decimal(15,2) // ← tipo explícito
 };

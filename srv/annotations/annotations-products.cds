@@ -139,7 +139,11 @@ annotate service.Products with @(
     UI.LineItem                    : [
         {
             $Type: 'UI.DataField',
-            Value: image
+            Value: image,
+            @HTML5.CssDefaults: {
+                $Type: 'HTML5.CssDefaultsType',
+                width: '5rem',
+            }
         },
         {
             $Type: 'UI.DataField',

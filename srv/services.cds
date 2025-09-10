@@ -3,6 +3,9 @@ using {API_BUSINESS_PARTNER as cloud} from './external/API_BUSINESS_PARTNER';
 //using {API_BUSINESS_PARTNER_CLUD as onpremise} from './external/API_BUSINESS_PARTNER_CLUD';
 
 service taller {
+    
+    function GetCartCount() returns Integer;
+    action RemoveFromCart(ID: UUID) returns Boolean; // << acción clara
     type dialog {
         option : String(10); //Add or Discount
         amount : Integer;
@@ -85,4 +88,6 @@ service taller {
 
     action EmptyCart() returns Integer;
     action Checkout()  returns Integer;
+
+
 };

@@ -67,12 +67,18 @@ module.exports = class LogaliGroup extends cds.ApplicationService {
             return 1;
         });
 
-        // Eliminar línea
-        this.on('Remove', 'Cart', async (req) => {
-            const cartRowId = req.params?.[0]?.ID;
-            if (!cartRowId) return req.reject(400, 'Fila inválida');
-            await DELETE.from(CartItem).where({ ID: cartRowId });
-            return 1;
+        // Eliminar item del carrito
+        this.on('RemoveFromCart', async (req) => {
+            const { ID } = req.data;
+            if (!ID) return req.reject(400, 'Missing ID');
+
+            // Si filtras por usuario/estado en READ, replica aquí para seguridad:
+            const user = req.user?.id || 'anonymous';
+            // Quita `status:'OPEN'` si no lo usas
+            const affected = await DELETE.from(CartItem).where({ ID, user /*, status: 'OPEN'*/ });
+
+            if (!affected) return req.reject(404, 'Item not found');
+            return true;
         });
 
         // Vaciar carrito del usuario actual con status OPEN
@@ -187,6 +193,24 @@ module.exports = class LogaliGroup extends cds.ApplicationService {
 
         });
 
+        this.on('Remove', async (req) => {
+            const { ID } = req.data;
+            const user = req.user?.id || 'anonymous';
+
+            // elimina el item del carrito del usuario (ajusta el nombre real de la tabla)
+            await DELETE.from('com.taller.CartItem')
+                .where({ ID, user });
+
+            return true;
+        });
+
+        this.on('GetCartCount', async req => {
+            const { CartItem } = this.entities;
+            const user = req.user?.id || 'anonymous';
+            // si usas status OPEN, deja el filtro; si no, quítalo
+            const row = await SELECT.one`sum(quantity) as cnt`.from(CartItem).where({ user, status: 'OPEN' });
+            return row?.cnt || 0;           // CAP devolverá { "value": <n> }
+        });
 
         return super.init();
     }

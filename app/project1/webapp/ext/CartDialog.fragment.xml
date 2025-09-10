@@ -1,0 +1,21 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+  <Dialog id="cartDialog" title="Carrito" stretchOnPhone="true" draggable="true" resizable="true">
+    <customHeader>
+      <Bar>
+        <contentLeft><Title text="Carrito"/></contentLeft>
+        <contentRight><Text id="cartTotal" text="Total: 0"/></contentRight>
+      </Bar>
+    </customHeader>
+    <content>
+      <List id="cartList"
+      growing="true"
+      noDataText="Sin items en el carrito"
+      mode="Delete"
+      delete=".onDeleteItem"/>
+
+    </content>
+    <beginButton><Button text="Vaciar" type="Transparent" press=".onEmptyCart"/></beginButton>
+    <endButton><Button text="Ir al carrito" press=".onNavigateToCart"/></endButton>
+    <buttons><Button text="Cerrar" press=".onCloseCart"/></buttons>
+  </Dialog>
+</core:FragmentDefinition>

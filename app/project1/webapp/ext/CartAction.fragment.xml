@@ -1,0 +1,13 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+  <HBox alignItems="Center">
+    <Button id="btnCartPopup"
+            icon="sap-icon://cart-2"
+            type="Transparent"
+            tooltip="Ver carrito"
+            press=".openCart"/>
+    <!-- número de items -->
+    <Text id="cartCountText"
+          text="{cart>/cartCount}"
+          class="sapUiTinyMarginBegin"/>
+  </HBox>
+</core:FragmentDefinition>
